@@ -1,0 +1,26 @@
+git
+node modules
+# Dependency directories
+node_modules/
+
+# Production build
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Vite cache
+.vite/
+
+# Optional: VS Code settings
+.vscode/
